@@ -1,6 +1,6 @@
 # Simulation-Model-for-a-Safari-Park
 
-A Simulation model created on simul8 as a case study, for fictional 'Exillirious Safari’, an open-air  Zoo & entertainment park in the UK. 
+A Simulation model created on Simul8 as a case study, for fictional 'Exillirious Safari’, an open-air  Zoo & entertainment park in the UK. 
 
 - The "Case Study" File contains the requirements and task of this project.
 
